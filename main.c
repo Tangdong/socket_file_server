@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include "./tcp/tcp.h"
 #include "./directory/directory.h"
+#include "./io/io.h"
 
 #define EXAMINEFILE 0   /* 检查该文件是否存在于服务器上 */
 #define GOONFILE    1   /*继续传输文件*/

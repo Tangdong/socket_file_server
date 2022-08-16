@@ -12,4 +12,10 @@
 * 
 * ÏÂ´Î×´Ì¬
 * 
+* 
+* get 1.txt
+* 
+*    client                            server
+* send(0,filename,size)             requese(yes/no,)
+* 
 */
