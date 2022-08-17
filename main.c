@@ -116,7 +116,7 @@ int main()
         default:
             break;
         }
-        printf("buf : %s\n", buf);
+        printf("td_buf : %s\n", buf);
         write(connfd, buf, ret);
     }
 
