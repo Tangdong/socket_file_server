@@ -1,2 +1,7 @@
 bin/
 obj/
+.vs/
+socket.sln
+socket.vcxproj
+socket.vcxproj.filters
+socket.vcxproj.user
